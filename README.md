@@ -1,2 +1,2 @@
-
-<img src="glitch_effact.png">
+Glitch Effact using HTML and CSS
+![](glitch_effact.gif)
