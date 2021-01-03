@@ -1,2 +1,2 @@
 
-<img src="glitch_effact .jpg">
+<img src="glitch_effact.png">
